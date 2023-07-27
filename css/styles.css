@@ -43,6 +43,10 @@ a:hover {
   text-decoration: none;
 }
 
+img {
+  width: 100%;
+}
+
 #intro {
   padding: 4rem 1rem 10rem 1rem;
   max-width: 1200px;
@@ -113,7 +117,7 @@ nav {
   font-family: var(--mono);
   color: var(--white);
   font-size: 80%;
-  padding: 4rem;
+  padding: 4rem 1rem;
 }
 
 nav h1 a {
