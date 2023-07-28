@@ -84,6 +84,9 @@ img {
   padding: 3rem 0;
 }
 
+#contact p:first-child {
+  width: 100%;
+}
 #contact p:last-child {
   margin-top: 3rem;
 }
